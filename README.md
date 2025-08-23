@@ -1,4 +1,3 @@
-<!-- Banner (puedes cambiarlo por el tuyo) -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Hi%20there!%20I'm%20Álvaro👋&fontSize=40&fontColor=ffffff" />
 </p>
@@ -11,7 +10,8 @@
 
 ### 🙋‍♂️ About Me
 
-- 🔭 I'm currently studying **Multiplatform App Development**
+- 🔭 I'm currently studying **Specialist of Big Data and Artificial Itelligence**
+-  I'm study **Multiplatform App Development**
 - 🌱 I’m learning **JavaScript**, **HTML**, **CSS**, **Java** and **Python**
 - 🤝 I’m looking to collaborate on small projects to keep learning
 - ⚡ Fun fact: I love learning about new tech even if I don’t use it (yet)
