@@ -12,7 +12,6 @@
 
 - 🔭 I'm currently studying **Specialist of Big Data and Artificial Itelligence**
 -  I'm study **Multiplatform App Development**
-- 🌱 I’m learning **JavaScript**, **HTML**, **CSS**, **Java** and **Python**
 - 🤝 I’m looking to collaborate on small projects to keep learning
 - ⚡ Fun fact: I love learning about new tech even if I don’t use it (yet)
 
