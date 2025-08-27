@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0072FF&center=true&vCenter=true&width=435&lines=Junior+Developer;Tech+Enthusiast;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0072FF&center=true&vCenter=true&width=435&lines=Developer;Tech+Enthusiast;Always+Learning+New+Things" />
 </p>
 
 ---
@@ -11,7 +11,7 @@
 ### 🙋‍♂️ About Me
 
 - 🔭 I'm currently studying **Specialist of Big Data and Artificial Itelligence**
--  I'm study **Multiplatform App Development**
+- 👨‍🎓 Graduated in **Multiplatform App Development**
 - 🤝 I’m looking to collaborate on small projects to keep learning
 - ⚡ Fun fact: I love learning about new tech even if I don’t use it (yet)
 
